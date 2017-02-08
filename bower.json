@@ -1,0 +1,30 @@
+{
+  "name": "react-phone-input",
+  "description": "A react component to format phone numbers",
+  "main": "dist/index.js",
+  "authors": [
+    "Raza Gill <raza.gill@outlook.com> (http://github.com/razagill)",
+    "Dreamware Team <contact@dreamware.io> (https://github.com/dreamware-io"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "phone",
+    "format",
+    "telephone"
+  ],
+  "homepage": "https://github.com/dreamware-io/react-phone-input",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "webpack.config.js"
+  ],
+  "dependencies": {
+    "react": "~0.13.3 || ^0.14.8 || ^15.0.1",
+    "underscore": "^1.8.3"
+  }
+}

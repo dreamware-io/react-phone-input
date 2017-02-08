@@ -3,8 +3,14 @@ A simple react component to format a phone number as the user types.
 
 ![alt tag](http://i.giphy.com/l41m24L5YTSOifyW4.gif)
 
+##Fork changes
+* Updated to use older version of React (0.13.3)
+* Prepared for publishing through Bower
+
 ##Installation:
   ```npm install react-phone-input --save```
+  or
+  ```bower install react-phone-input --save```
   
 ##Usage:
 ```jsx

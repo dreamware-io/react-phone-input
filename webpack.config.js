@@ -87,8 +87,8 @@ if (TARGET === 'build') {
       libraryTarget: 'umd'
     },
     externals: [{
-      "lodash": "lodash",
-      "react": {
+      'underscore': '_',
+      'react': {
         root: 'React',
         commonjs2: 'react',
         commonjs: 'react',
